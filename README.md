@@ -23,8 +23,8 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Schedule
 **Tuesday, November 18**
 - 11:30 - 11:35 am: [Your topic] - Your name + LinkedIn Profile Link
-- 14:30 - 14:35 pm: [Your topic] - Your name + LinkedIn Profile Link
+- 3:40 - 3:45 pm: [Your topic] - Your name + LinkedIn Profile Link
 
 **Wednesday, November 19**
 - 11:30 - 11:35 am: **Axioms of Professional Development** - [Jake Goldrich](https://www.linkedin.com/in/jake-goldrich-aba1b85b)
-- 14:30 - 14:35 pm: [Your topic] - Your name + LinkedIn Profile Link
+- 2:30 - 2:35 pm: [Your topic] - Your name + LinkedIn Profile Link
